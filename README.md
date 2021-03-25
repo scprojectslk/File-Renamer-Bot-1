@@ -23,4 +23,4 @@ forked by [@Sanu_2021ss](https://t.me/Sanu_2021ss)
 
 [@SCProjectsLK](https://t.me/SCProjectsLK)
 
-### Happy To Admin In [@InfinityBOTs_Support](https://t.me/InfinityBOTs_Support) 😋
+### Happy To Be Admin In [@InfinityBOTs_Support](https://t.me/InfinityBOTs_Support) 😋
