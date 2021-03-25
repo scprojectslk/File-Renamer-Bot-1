@@ -1,6 +1,6 @@
 # File Renamer Bot With Permenent Thumbnail
 
-## This bot can rename any telegram file quickly with custom thumbnail! A Powerfull Bot Bot By [@ImJanidu](https://t.me/ImJanidu) forked by [@Sanu_2021ss](https://t.me/Sanu_2021ss)
+## This bot can rename any telegram file quickly with custom thumbnail! A Powerfull Bot Bot By Janidu Malshan forked by [@Sanu_2021ss](https://t.me/Sanu_2021ss)
 
 ### Deploy to Heroku 🏃‍♂
 
@@ -22,3 +22,5 @@ forked by [@Sanu_2021ss](https://t.me/Sanu_2021ss)
 ### Support Group:
 
 [@SCProjectsLK](https://t.me/SCProjectsLK)
+
+### Happy To Admin In [@InfinityBOTs_Support](https://t.me/InfinityBOTs_Support) 😋
