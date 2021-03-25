@@ -17,8 +17,8 @@
 ### Developers:
 
 [@ImJanindu](https://t.me/ImJanindu)
-forked by @Sanu_2021ss.(https://t.me/Sanu_2021ss)
+forked by [@Sanu_2021ss](https://t.me/Sanu_2021ss)
 
 ### Support Group:
 
-@SCProjectsLK.(https://t.me/SCProjectsLK)
+[@SCProjectsLK](https://t.me/SCProjectsLK)
